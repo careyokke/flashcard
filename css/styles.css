@@ -1,0 +1,29 @@
+#showing {
+  cursor:pointer;
+
+
+
+}
+
+#showing:hover {
+  text-decoration: underline;
+
+
+}
+
+
+
+
+
+.btn{
+  margin: 10px;
+}
+
+.container{
+  background-color: #2ec1f7
+
+}
+
+#def1{
+  display: none;
+}
